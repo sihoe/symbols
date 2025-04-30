@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="#254D39"/>
+  <g fill="#EEE9E0">
+    <!-- Låsbøyle -->
+    <path d="M35 42 a15 15 0 0 1 30 0 v8 h-6 v-8 a9 9 0 0 0 -18 0 v8 h-6 v-8z"/>
+    <!-- Låskasse -->
+    <rect x="30" y="50" width="40" height="30" rx="4"/>
+  </g>
+  <!-- Tydeligere nøkkelhull -->
+  <g fill="#254D39">
+    <circle cx="50" cy="63" r="5"/>
+    <rect x="47.5" y="65" width="5" height="10" rx="2.5"/>
+  </g>
+</svg>
