@@ -590,10 +590,11 @@ const markerTexts = {
     en: ["Vatnås Church", "A charming little tarred wooden church. One of the few privately owned churches in Norway."],
     de: ["Vatnås Kirche", "Eine charmante kleine geteerte Holzkirche. Eine der wenigen privat besessenen Kirchen Norwegens."]
   },
-  "Olavskilden": {
+    "Olavskilden": {
     no: ["Olavskilden", "100 meter oppe i åsen bak Vatnås kirke er Olavskilden, der slukket Olav den Hellige tørsten og bestemte at det skulle bygges en kirke her."],
     en: ["Olav's Spring", "100 meters up the hill behind Vatnås Church lies Olav's Spring, where Saint Olav quenched his thirst and decided to build a church here."],
     de: ["Olavsquelle", "100 Meter den Hügel hinter der Vatnås Kirche liegt die Olavsquelle, wo Olav der Heilige seinen Durst stillte und beschloss, hier eine Kirche zu bauen."]
   }
 };
+
  
