@@ -595,4 +595,4 @@ const markerTexts = {
     en: ["Olav's Spring", "100 meters up the hill behind Vatnås Church lies Olav's Spring, where Saint Olav quenched his thirst and decided to build a church here."],
     de: ["Olavsquelle", "100 Meter den Hügel hinter der Vatnås Kirche liegt die Olavsquelle, wo Olav der Heilige seinen Durst stillte und beschloss, hier eine Kirche zu bauen."]
   }
- 
+}; 
