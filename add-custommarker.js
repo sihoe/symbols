@@ -47,7 +47,7 @@ addCustomMarker("Uvdalsbua", [60.267179296, 8.943991088], "https://raw.githubuse
 addCustomMarker("Nore I", [60.267243223, 8.959288401], "https://raw.githubusercontent.com/sihoe/svingombilder/main/nore_I.jpg", "marker");
 addCustomMarker("Rødberg Hotell", [60.267799011, 8.942691045], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/rodberghotell.jpg", "hotel");
 addCustomMarker("Coop Prix Uvdal", [60.269479203, 8.750888655], "", "handlevogn");
-addCustomMarker("Kirkebygda idyllisk grend", [60.270421622, 8.798583318], "https://raw.githubusercontent.com/sihoe/svingombilder/main/kirkebygda_idyllisk_grend.jpg", "marker");
+addCustomMarker("Kirkebygda idyllisk grend", [60.270421622, 8.798583318], "", "marker");
 addCustomMarker("Håvardsrud Seterliv", [60.078617532, 8.864987101], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/haavardsrud_seterliv.jpg", "gaardsdyr");
 addCustomMarker("Kongsberg stasjon",[59.672139879,9.65018034],"","marker");
 addCustomMarker("Kløfterhølen badeplass",[59.837962182,9.575067953],"https://raw.githubusercontent.com/sihoe/gyger/main/Kløfterhølen_Lampeland.jpg","bathingspot");
@@ -62,8 +62,8 @@ addCustomMarker("Bruhaug bru",[60.030705231,9.235828724],"https://raw.githubuser
 addCustomMarker("Åsly bru",[60.099289996,9.065426275],"https://raw.githubusercontent.com/sihoe/svingombilder/main/asly_bru_-_turkis_bro.jpg","marker");
 addCustomMarker("Kravikfjord stasjon Numedalsbanen",[60.135978776,9.018087043],"https://raw.githubusercontent.com/sihoe/svingombilder/main/kravikfjord_stasjon.jpg","attractions");
 addCustomMarker("Fauskodammen",[60.323737734,8.813762223],"","marker");
-addCustomMarker("Rafting",[60.395703281,8.424715932],"https://raw.githubusercontent.com/sihoe/svingombilder/main/rafting.jpg","marker");
-addCustomMarker("Smådøldalen",[60.397036734,8.680580103],"https://raw.githubusercontent.com/sihoe/svingombilder/main/smaadoldalen.jpg","marker");
+addCustomMarker("Rafting",[60.395703281,8.424715932],"","marker");
+addCustomMarker("Smådøldalen",[60.397036734,8.680580103],"","marker");
 addCustomMarker("Seterdalen kulturminner",[60.416259851,8.533555395],"","marker");
 addCustomMarker("Blåbær Camping", [59.859993843, 9.320847389], "https://raw.githubusercontent.com/sihoe/svingombilder/main/blåbær_camping.jpg", "tent");
 addCustomMarker("Blåberg kafé", [59.859770567, 9.321359196], "https://raw.githubusercontent.com/sihoe/svingombilder/main/blaaberg_kafe.jpg", "kaffekopp");
