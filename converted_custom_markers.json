@@ -819,15 +819,6 @@
     "symbolType": "secureparking"
   },
   {
-    "title": "Jonrud Bolkesjø Gård",
-    "latlng": [
-      59.689624357,
-      9.269020308
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/jonrud_bolkesjo_gard.jpg",
-    "symbolType": "cabin"
-  },
-  {
     "title": "Follsjø strand",
     "latlng": [
       59.68805201,
@@ -932,7 +923,7 @@
       59.690813381,
       9.267145969
     ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/husmannsplassbolkesjo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/jonrud_bolkesjo_gard.jpg",
     "symbolType": "cabin"
   },
   {
