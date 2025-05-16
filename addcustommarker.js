@@ -5,16 +5,15 @@ addCustomMarker("Tekslehøgget", [59.980003466, 9.438658655], "https://raw.githu
 addCustomMarker("Sigdal museum", [60.043102632, 9.63923394], "https://raw.githubusercontent.com/sihoe/svingombilder/main/sigdal_museum.jpg", "attractions");
 addCustomMarker("Folkemusikksenteret", [60.04366798, 9.640968053], "https://raw.githubusercontent.com/sihoe/svingombilder/main/folkemusikksenteret.jpg", "attractions");
 addCustomMarker("Kunstnerhjemmet Lauvlia Th. Kittelsen", [60.061712854, 9.505097651], "https://raw.githubusercontent.com/sihoe/svingombilder/main/Lauvlia_kunstnerhjem.jpg", "attractions");
-addCustomMarker("Mye trafikk langs fv 287", [60.040811219, 9.590202439], "https://raw.githubusercontent.com/sihoe/svingombilder/main/ikkebildet.jpg", "marker");
 addCustomMarker("Andersnatten", [60.117004005, 9.418557601], "https://raw.githubusercontent.com/sihoe/svingombilder/main/andersnatten_kittelsen.jpg", "attractions");
-addCustomMarker("Sikker lading av batteri", [59.9115616, 9.8885484], "https://raw.githubusercontent.com/sihoe/svingombilder/main/ikkebildet.jpg", "secureparking");
-addCustomMarker("Sikker lading av batteri", [59.971845, 9.866121], "https://raw.githubusercontent.com/sihoe/svingombilder/main/ikkebildet.jpg", "secureparking");
-addCustomMarker("Sikker sykkelparkering", [59.911739, 9.8872863], "https://raw.githubusercontent.com/sihoe/svingombilder/main/ikkebildet.jpg", "bikecharge",);
-addCustomMarker("Sikker sykkelparkering", [59.971872, 9.866202], "https://raw.githubusercontent.com/sihoe/svingombilder/main/ikkebildet.jpg", "bikecharge",);
+addCustomMarker("Sikker lading av batteri", [59.9115616, 9.8885484], "", "secureparking");
+addCustomMarker("Sikker lading av batteri", [59.971845, 9.866121], "", "secureparking");
+addCustomMarker("Sikker sykkelparkering", [59.911739, 9.8872863], "", "bikecharge",);
+addCustomMarker("Sikker sykkelparkering", [59.971872, 9.866202], "", "bikecharge",);
 addCustomMarker("Th. Kittelsen museum", [59.971845,9.866121], "https://raw.githubusercontent.com/sihoe/svingombilder/main/kittelsen_museum.jpg", "attractions");
 addCustomMarker("Sandviken Camping", [59.98905897, 8.816432107], "https://raw.githubusercontent.com/sihoe/svingombilder/main/Sandviken_camping.jpg", "cabin");
 addCustomMarker("Røyslansbergo", [59.993397, 8.695158611], "https://raw.githubusercontent.com/sihoe/svingombilder/main/royslandsbergo.jpg", "bathingspot");
-addCustomMarker("Kiwi Austbygde", [59.995158429, 8.826762406], "https://raw.githubusercontent.com/sihoe/svingombilder/main/kiwi_austbygde.jpg", "handlevogn");
+addCustomMarker("Kiwi Austbygde", [59.995158429, 8.826762406], "", "handlevogn");
 addCustomMarker("Austbygde Bakeri", [59.995255107, 8.828221442], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/austbygdebakeri.jpg", "kaffekopp");
 addCustomMarker("Bruhølen", [60.006793803, 8.834367819], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/bruholen_austbygdaai.jpg", "bathingspot");
 addCustomMarker("Austbygde kirke", [60.029533913, 8.826577634], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/austbygdekirke.jpg", "attractions");
@@ -35,8 +34,8 @@ addCustomMarker("Nordre Frygne", [60.149610391, 9.012971493], "https://raw.githu
 addCustomMarker("Frognerhagen gård", [60.156268402, 9.010185517], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/Frognerhagen.jpg", "gaardsdyr");
 addCustomMarker("Nore stavkirke", [60.164560374, 9.010271502], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/nore_stavkirke.jpg", "attractions");
 addCustomMarker("Nordefjord stasjon", [60.16865753, 9.009658868], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/nordefjord_stasjon.jpg", "cabin");
-addCustomMarker("Øktodden mølle", [60.206530942, 9.024462064], "https://raw.githubusercontent.com/sihoe/svingombilder/main/oktodden_molle.jpg", "attractions");
-addCustomMarker("Fin rasteplass", [60.212252383, 9.019742176], "https://raw.githubusercontent.com/sihoe/svingombilder/main/ikkebildet.jpg", "marker");
+addCustomMarker("Øktodden mølle", [60.206530942, 9.024462064], "", "attractions");
+addCustomMarker("Fin rasteplass", [60.212252383, 9.019742176], "", "marker");
 addCustomMarker("Sønstevann", [60.221410452, 8.549694535], "https://raw.githubusercontent.com/sihoe/svingombilder/main/sonstevannfiske.jpg", "fishing");
 addCustomMarker("Demning Imingfjell", [60.231947859, 8.586378742], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/Imingfjell_deming.jpg", "marker");
 addCustomMarker("Imingfjell Turistheim", [60.233834168, 8.585211579], "https://raw.githubusercontent.com/sihoe/svingombilder/main/imingfjellturistheim_kafe.jpg", "cabin");
@@ -47,7 +46,7 @@ addCustomMarker("Uvdal stavkirke", [60.265177268, 8.834852182], "https://raw.git
 addCustomMarker("Uvdalsbua", [60.267179296, 8.943991088], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/uvdalsbua.jpg", "handlevogn");
 addCustomMarker("Nore I", [60.267243223, 8.959288401], "https://raw.githubusercontent.com/sihoe/svingombilder/main/nore_I.jpg", "marker");
 addCustomMarker("Rødberg Hotell", [60.267799011, 8.942691045], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/rodberghotell.jpg", "hotel");
-addCustomMarker("Coop Prix Uvdal", [60.269479203, 8.750888655], "https://raw.githubusercontent.com/sihoe/svingombilder/main/uvdalcoop.jpg", "handlevogn");
+addCustomMarker("Coop Prix Uvdal", [60.269479203, 8.750888655], "", "handlevogn");
 addCustomMarker("Kirkebygda idyllisk grend", [60.270421622, 8.798583318], "https://raw.githubusercontent.com/sihoe/svingombilder/main/kirkebygda_idyllisk_grend.jpg", "marker");
 addCustomMarker("Håvardsrud Seterliv", [60.078617532, 8.864987101], "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/haavardsrud_seterliv.jpg", "gaardsdyr");
 addCustomMarker("Kongsberg stasjon",[59.672139879,9.65018034],"","marker");
@@ -85,10 +84,31 @@ addCustomMarker("Utfartsparkering", [60.300883007, 8.342754566], 'https://raw.gi
 addCustomMarker("Utsikt Vikstul", [60.227296561, 8.395850658], 'https://raw.githubusercontent.com/sihoe/svingombilder/main/utsiktvikstul.jpg', 'marker');
 addCustomMarker("Kryss elv", [60.315692251, 8.497465166], 'https://raw.githubusercontent.com/sihoe/svingombilder/main/-IgU_GTY.jpg', 'marker');
 addCustomMarker("Merking", [60.295455134, 8.346110973], 'https://raw.githubusercontent.com/sihoe/svingombilder/main/bEt_qCXI.jpg', 'marker');
-addCustomMarker("Beltetjonn", [60.306056497, 8.301768732], 'https://raw.githubusercontent.com/sihoe/svingombilder/main/beltetjonn.jpg', 'Bathingspot');
+addCustomMarker("Beltetjonn", [60.306056497, 8.301768732], 'https://raw.githubusercontent.com/sihoe/svingombilder/main/beltetjonn.jpg', 'bathingspot');
 addCustomMarker("Slepa", [60.266763747, 8.361848504], 'https://raw.githubusercontent.com/sihoe/svingombilder/main/Kryss_imingfjellrundt.jpg', 'marker');
 addCustomMarker("Vatnås Kirke", [59.960355356, 9.614856988], "https://raw.githubusercontent.com/sihoe/svingombilder/main/vaatnaskirke.jpg", "attractions");
 addCustomMarker("Olavskilden", [59.960479004, 9.616668109], "https://raw.githubusercontent.com/sihoe/svingombilder/main/olavskilden.jpg", "attractions");
+addCustomMarker("Sikker sykkelparkering", [59.911739, 9.8872863], "", "secureparking");
+addCustomMarker("Jonrud Bolkesjø Gård", [59.689624357, 9.269020308], "https://raw.githubusercontent.com/sihoe/svingombilder/main/jonrud_bolkesjo_gard.jpg", "cabin");
+addCustomMarker("Follsjø strand", [59.68805201, 9.26833872], "https://raw.githubusercontent.com/sihoe/svingombilder/main/follsjo_strand.jpg", "bathingspot");
+addCustomMarker("Bolkesjø Gaard", [59.722512668, 9.272849773], "https://raw.githubusercontent.com/sihoe/svingombilder/main/bolkesjo_gaard.jpg", "attractions");
+addCustomMarker("Follsjø", [59.687431834, 9.253190312], "https://raw.githubusercontent.com/sihoe/svingombilder/main/fiskefollsjo.jpg", "fishing");
+addCustomMarker("Midtbøen gård", [59.744772842, 9.209311029], "https://raw.githubusercontent.com/sihoe/svingombilder/main/alpakkavandring-midtboen.jpg", "gaardsdyr");
+addCustomMarker("Parkering", [59.687680092, 9.268609956], "", "marker");
+addCustomMarker("Bo i Norges eldste trehus", [59.721193093, 9.274365613], "https://raw.githubusercontent.com/sihoe/svingombilder/main/aarestuabolkesjo.jpg", "cabin");
+addCustomMarker("Bolkesjø Turisthotell", [59.721641387, 9.278439065], "", "marker");
+addCustomMarker("Ta Holmenrunden", [59.718754883, 9.289766238], "", "hiking");
+addCustomMarker("Farmen gården 2025", [59.684971123, 9.19603122], "", "marker");
+addCustomMarker("Bolkesjø Gaard stulen", [59.708502291, 9.317621697], "https://raw.githubusercontent.com/sihoe/svingombilder/main/stulen-bolkesjogaard.jpg", "cabin");
+addCustomMarker("Glamping Bolkesjø Gaard", [59.690089459, 9.266605296], "https://raw.githubusercontent.com/sihoe/svingombilder/main/glamping-bolkesjogaard.jpg", "tent");
+addCustomMarker("Husmannsplassen Bolkesjø Gaard", [59.690813381, 9.267145969], "https://raw.githubusercontent.com/sihoe/svingombilder/main/husmannsplassbolkesjo.jpg", "cabin");
+addCustomMarker("Dusanfoss", [59.746790985, 9.335377514], "https://raw.githubusercontent.com/sihoe/svingombilder/main/dusanfoss.jpg", "bathingspot");
+addCustomMarker("Liten parkeringsplass", [59.719121642, 9.286112416], "", "marker");
+addCustomMarker("Søstrene Storås Hotell", [59.729280646, 9.351663406], "https://raw.githubusercontent.com/sihoe/svingombilder/main/sostrene-storaas.jpg", "hotel");
+addCustomMarker("Stulen på Midtbøen gård", [59.78048, 9.19730], "https://raw.githubusercontent.com/sihoe/svingombilder/main/stulen-midtboengaard.jpg", "cabin");
+addCustomMarker("Persbukta badeplass", [59.73091, 9.36317], "https://raw.githubusercontent.com/sihoe/svingombilder/main/persbukta.jpg", "bathingspot");
+addCustomMarker("Padling i Buvatnet", [59.72874, 9.35538], "https://raw.githubusercontent.com/sihoe/svingombilder/main/kayak-buvatnet.jpg", "kayak");
+addCustomMarker("Søstrene Storaas Sommerrestaurant", [59.72930749967856, 9.35177817682091], "https://raw.githubusercontent.com/sihoe/svingombilder/main/sommerrestaurant-sostrenestoraas.jpg", "eat");
 
 
 
