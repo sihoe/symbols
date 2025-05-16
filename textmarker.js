@@ -5,7 +5,7 @@ const markerTexts = {
   en: ["Farmen farm 2025", "TV2 has chosen the beautiful headland by Lake Follsjø as the location for the popular series Farmen in 2025."],
   de: ["Farmen-Hof 2025", "TV2 hat die wunderschöne Landzunge am Follsjø-See als Standort für die beliebte Serie Farmen im Jahr 2025 gewählt."]
   },
-  "Jonrud Bolkesjø Gaard": {
+  "Husmannsplassen Bolkesjø Gaard": {
   no: ["Jonrud Bolkesjø Gaard", "Her kan du bo på en ekte husmannsplass. Plassen ligger idyllisk til ved Follsjø"],
   en: ["Jonrud Bolkesjø Gaard", "Stay at a real historical croft. The location is idyllically situated by Lake Follsjø"],
   de: ["Jonrud Bolkesjø Gaard", "Übernachten Sie auf einem echten historischen Bauernhof. Der Hof liegt idyllisch am See Follsjø"]
