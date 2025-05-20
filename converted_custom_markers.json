@@ -998,4 +998,122 @@
     "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sommerrestaurant-sostrenestoraas.jpg",
     "symbolType": "eat"
   }
+  },
+  {
+    "title": "Vatnås Kirke",
+    "latlng": [
+      59.960355356,
+      9.614856988
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/vaatnaskirke.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Olavskilden",
+    "latlng": [
+      59.960479004,
+      9.616668109
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/olavskilden.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Lampeland Spiseri",
+    "latlng": [
+      59.83431287,
+      9.578327078
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/lampeland_spiseri.jpg",
+    "symbolType": "eat"
+  },
+  {
+    "title": "Lampeland Hotell",
+    "latlng": [
+      59.834554551,
+      9.578144874
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Lampeland_Hotell.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Friluftsbua",
+    "latlng": [
+      59.8352615,
+      9.5774824
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Friluftsbua.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Rema1000 Lampeland",
+    "latlng": [
+      59.836204458,
+      9.579600729
+    ],
+    "imageUrl": "",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Skattekista svømmehall",
+    "latlng": [
+      59.83913742,
+      9.571732553
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/skattekista.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Vatnebrynnvatnet badeplass",
+    "latlng": [
+      59.87183139,
+      9.54320036
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Vatnebrynnvatnet_badeplass_badstu.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Vatnebrynnvatnet gapahuk",
+    "latlng": [
+      59.874734708,
+      9.539947125
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Vatnebrynvatnet_gapahuk.jpg",
+    "symbolType": "fishing"
+  },
+  {
+    "title": "Bingen kapell",
+    "latlng": [
+      59.88918667,
+      9.768934104
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Bingen-kapell.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Lyngdal Landhandel",
+    "latlng": [
+      59.908186216,
+      9.525000955
+    ],
+    "imageUrl": "",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Lyngdal kirke",
+    "latlng": [
+      59.9106723,
+      9.5286842
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Fav_Lyngdal_kirke_Flesberg_L1030884.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Blaafarveværket",
+    "latlng": [
+      59.912645708,
+      9.887791269
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blaafarveverket.jpg",
+    "symbolType": "attractions"
+   }
 ]
