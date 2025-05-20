@@ -997,25 +997,6 @@
     ],
     "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sommerrestaurant-sostrenestoraas.jpg",
     "symbolType": "eat"
-  }
-  },
-  {
-    "title": "Vatnås Kirke",
-    "latlng": [
-      59.960355356,
-      9.614856988
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/vaatnaskirke.jpg",
-    "symbolType": "attractions"
-  },
-  {
-    "title": "Olavskilden",
-    "latlng": [
-      59.960479004,
-      9.616668109
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/olavskilden.jpg",
-    "symbolType": "attractions"
   },
   {
     "title": "Lampeland Spiseri",
