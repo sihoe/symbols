@@ -573,7 +573,7 @@
       8.813762223
     ],
     "imageUrl": "",
-    "symbolType": "attraction"
+    "symbolType": "attractions"
   },
   {
     "title": "Rafting",
@@ -581,7 +581,7 @@
       60.395703281,
       8.424715932
     ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/rafting.jpg",
+    "imageUrl": "",
     "symbolType": "marker"
   },
   {
@@ -590,7 +590,7 @@
       60.397036734,
       8.680580103
     ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/smaadoldalen.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/smaadolrunden.jpg",
     "symbolType": "marker"
   },
   {
@@ -608,7 +608,7 @@
       59.859993843,
       9.320847389
     ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blåbær_camping.jpg",
+    "imageUrl": "",
     "symbolType": "tent"
   },
   {
@@ -797,7 +797,7 @@
       59.960355356,
       9.614856988
     ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/vaatnaskirke.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/vatnaaskirke.jpg",
     "symbolType": "attractions"
   },
   {
@@ -896,7 +896,7 @@
       59.9106723,
       9.5286842
     ],
-    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Fav_Lyngdal_kirke_Flesberg_L1030884.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Fav_Lyngdal_kirke_Flesberg_L1030884.JPG",
     "symbolType": "attractions"
   },
   {
