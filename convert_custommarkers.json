@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fossanåsen Hotel",
+    "latlng": [59.9238703, 9.3500866],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fossanasen-hotel.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Fossanåsen Hotel minigolf",
+    "latlng": [59.924009, 9.3502257],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fossanaasen-hotel-minigolf.jpg",
+    "symbolType": "marker"
+  },
+  {
     "title": "Haugfoss kafe",
     "latlng": [
       59.913424015,
