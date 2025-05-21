@@ -951,7 +951,7 @@
     "symbolType": "marker"
   },
   {
-    "title": "Bo i Norges eldste trehus",
+    "title": "Årestua Bolkesjø Gaard",
     "latlng": [59.721193093, 9.274365613],
     "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/aarestuabolkesjo.jpg",
     "symbolType": "cabin"
@@ -963,7 +963,7 @@
     "symbolType": "marker"
   },
   {
-    "title": "Ta Holmenrunden",
+    "title": "Holmenrunden",
     "latlng": [59.718754883, 9.289766238],
     "imageUrl": "",
     "symbolType": "hiking"
