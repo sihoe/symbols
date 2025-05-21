@@ -5,12 +5,27 @@ const markerTexts = {
   en: ["Farmen farm 2025", "TV2 has chosen the beautiful headland by Lake Follsjø as the location for the popular series Farmen in 2025."],
   de: ["Farmen-Hof 2025", "TV2 hat die wunderschöne Landzunge am Follsjø-See als Standort für die beliebte Serie Farmen im Jahr 2025 gewählt."]
   },
+  "Fossanåsen Hotel": {
+  no: ["Fossanåsen Hotel", "Fossanåsen Hotel ligger stille og rolig til inne i skogen. Et ypperlig utgangspunkt for turer i skog og fjell. Her er det enkle rom, komfortable senger og mulighet for frokost, mat og drikke."],
+  en: ["Fossanåsen Hotel", "Fossanåsen Hotel is peacefully located in the forest – a perfect base for exploring the surrounding woods and mountains. It offers simple rooms, comfortable beds, and breakfast, food and drinks."],
+  de: ["Fossanåsen Hotel", "Das Fossanåsen Hotel liegt ruhig im Wald – ein idealer Ausgangspunkt für Wanderungen in Wald und Gebirge. Es bietet einfache Zimmer, bequeme Betten sowie Frühstück, Speisen und Getränke."]
+  },
+  "Fossanåsen Hotel minigolf": {
+  no: ["Fossanåsen Hotel minigolf", "12-hulls minigolfbane som er åpen fra midten av mai til slutten av september. For utstyr er det bare å kontakte resepsjonen/baren."],
+  en: ["Fossanåsen Hotel minigolf", "12-hole mini golf course open from mid-May to late September. Equipment is available at the reception/bar."],
+  de: ["Fossanåsen Hotel Minigolf", "12-Loch-Minigolfanlage, geöffnet von Mitte Mai bis Ende September. Die Ausrüstung gibt es an der Rezeption oder in der Bar."]
+  },
+ "Husmannsplassen Bolkesjø Gaard": {
+  no: ["Jonrud Bolkesjø Gaard", "Her kan du bo på en ekte husmannsplass. Plassen ligger idyllisk til ved Follsjø"],
+  en: ["Jonrud Bolkesjø Gaard", "Stay at a real historical croft. The location is idyllically situated by Lake Follsjø"],
+  de: ["Jonrud Bolkesjø Gaard", "Übernachten Sie auf einem echten historischen Bauernhof. Der Hof liegt idyllisch am See Follsjø"]
+ },
   "Husmannsplassen Bolkesjø Gaard": {
   no: ["Jonrud Bolkesjø Gaard", "Her kan du bo på en ekte husmannsplass. Plassen ligger idyllisk til ved Follsjø"],
   en: ["Jonrud Bolkesjø Gaard", "Stay at a real historical croft. The location is idyllically situated by Lake Follsjø"],
   de: ["Jonrud Bolkesjø Gaard", "Übernachten Sie auf einem echten historischen Bauernhof. Der Hof liegt idyllisch am See Follsjø"]
  },
-"Årestua Bolkesjø Gaard": {
+ "Årestua Bolkesjø Gaard": {
   no: ["Årestua Bolkesjø Gaard", "Årestua er Norges eldste bolighus fra 1200-tallet. Den var ferdig renovert i 2024 i nært samarbeid med vernemyndighetene. Her kan du virkelig føle historien i veggene"],
   en: ["Årestua Bolkesjø Gaard", "Årestua is Norway's oldest residence from the 1200s. It was fully restored in 2024 in close cooperation with the heritage authorities. Here, you can truly feel history in the walls"],
   de: ["Årestua Bolkesjø Gaard", "Årestua ist Norwegens ältestes Wohnhaus aus dem 13. Jahrhundert. Es wurde 2024 in enger Zusammenarbeit mit den Denkmalschutzbehörden vollständig restauriert. Hier spürt man die Geschichte in den Wänden"]
