@@ -15,11 +15,6 @@ const markerTexts = {
   en: ["Fossanåsen Hotel minigolf", "12-hole mini golf course open from mid-May to late September. Equipment is available at the reception/bar."],
   de: ["Fossanåsen Hotel minigolf", "12-Loch-Minigolfanlage, geöffnet von Mitte Mai bis Ende September. Die Ausrüstung gibt es an der Rezeption oder in der Bar."]
   },
- "Husmannsplassen Bolkesjø Gaard": {
-  no: ["Jonrud Bolkesjø Gaard", "Her kan du bo på en ekte husmannsplass. Plassen ligger idyllisk til ved Follsjø"],
-  en: ["Jonrud Bolkesjø Gaard", "Stay at a real historical croft. The location is idyllically situated by Lake Follsjø"],
-  de: ["Jonrud Bolkesjø Gaard", "Übernachten Sie auf einem echten historischen Bauernhof. Der Hof liegt idyllisch am See Follsjø"]
- },
   "Husmannsplassen Bolkesjø Gaard": {
   no: ["Jonrud Bolkesjø Gaard", "Her kan du bo på en ekte husmannsplass. Plassen ligger idyllisk til ved Follsjø"],
   en: ["Jonrud Bolkesjø Gaard", "Stay at a real historical croft. The location is idyllically situated by Lake Follsjø"],
