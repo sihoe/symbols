@@ -1033,6 +1033,96 @@
     "latlng": [59.72930749967856, 9.35177817682091],
     "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sommerrestaurant-sostrenestoraas.jpg",
     "symbolType": "eat"
+  },
+  {
+    "title": "Sti",
+    "latlng": [60.073159371, 9.263008833],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Sti",
+    "latlng": [60.09168804, 9.285003924],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sti.jpg",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Trillemarka-Rollagsfjell naturreservat",
+    "latlng": [60.103237681, 9.243278503],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Dette området er ulendt og krevende etter mye nedbør",
+    "latlng": [60.152162006, 9.215824556],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Stien går hit",
+    "latlng": [60.165921821, 9.231516366],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Madonnastatuen",
+    "latlng": [60.182116519, 9.262812513],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/madonnaen.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Eggedal Mølle",
+    "latlng": [60.230365407, 9.361324792],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/eggedal_moelle.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Saghølen badeplass",
+    "latlng": [60.246341069, 9.327222487],
+    "imageUrl": "",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Christian Skredsvig museum",
+    "latlng": [60.257059155, 9.358807206],
+    "imageUrl": "",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Grense Trillemarka Naturreservat",
+    "latlng": [60.08825, 9.27805],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Grense Trillemarka Naturreservat",
+    "latlng": [60.07517, 9.26483],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Grense Trillemarka Naturreservat",
+    "latlng": [60.16634, 9.23171],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Grense Trillemarka Naturreservat",
+    "latlng": [60.15026, 9.21412],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Eggedal Borgerstue",
+    "latlng": [60.2449459, 9.3542797],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/eggedalborgerstue.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Eggedal Borgerstue Storgårdscafé",
+    "latlng": [60.2447209, 9.3559142],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/storgaardscafe-eggedalborgerstue.jpg",
+    "symbolType": "eat"
   }
 ]
 
