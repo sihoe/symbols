@@ -604,7 +604,47 @@ const markerTexts = {
     no: ["Olavskilden", "100 meter oppe i åsen bak Vatnås kirke er Olavskilden, der slukket Olav den Hellige tørsten og bestemte at det skulle bygges en kirke her."],
     en: ["Olav's Spring", "100 meters up the hill behind Vatnås Church lies Olav's Spring, where Saint Olav quenched his thirst and decided to build a church here."],
     de: ["Olavsquelle", "100 Meter den Hügel hinter der Vatnås Kirche liegt die Olavsquelle, wo Olav der Heilige seinen Durst stillte und beschloss, hier eine Kirche zu bauen."]
-  }
+  },
+  "Eggedal Mølle": {
+    no: ["Eggedal Mølle", "Åpent i ferier – verdt et stopp uansett!"],
+    en: ["Eggedal Mill", "Open in summer – great spot even off-season"],
+    de: ["Mühle Eggedal", "Im Sommer offen – immer sehenswert"]
+  },
+  "Eggedal Borgerstue": {
+    no: ["Eggedal Borgerstue", "Nydelig lokal mat og komfortable senger"],
+    en: ["Eggedal Borgerstue", "Delicious local food and comfortable beds"],
+    de: ["Eggedal Borgerstue", "Lokales Essen und gemütliche Betten"]
+  },
+  "Saghølen badeplass": {
+    no: ["Saghølen badeplass", "Svaberg, naturlige sklier og bademuligheter"],
+    en: ["Saghølen swimming spot", "Warm rocks and fun swimming"],
+    de: ["Badestelle Saghølen", "Felsen und Natur-Rutschbahn"]
+  },
+  "Christian Skredsvig museum": {
+    no: ["Christian Skredsvig museum", "Norges best bevarte kunstnerhjem"],
+    en: ["Hagan – Skredsvig museum", "One of Norway's best-preserved artist homes"],
+    de: ["Hagan – Skredsvig Museum", "Gut erhaltenes Künstlerheim"]
+  },
+  "Grense Trillemarka Naturreservat": {
+    no: ["Grense Trillemarka", "Her må elsykkel trilles. Kun godkjente veier kan sykles"],
+    en: ["Trillemarka border", "Push your e-bike – only approved trails allowed"],
+    de: ["Grenze Trillemarka", "E-Bike schieben – nur genehmigte Wege erlaubt"]
+ },
+  "Sti": {
+    no: ["Sti", "Sti eller kjerrevei, følg med på skilting"],
+    en: ["Trail", "Trail or cart road – follow local signs"],
+    de: ["Pfad", "Pfad oder Karrenweg – bitte Beschilderung folgen"] 
+ },
+ "Eggedal Borgerstue Storgårdscafé": {
+  "no": ["Eggedal Borgerstue Storgårdscafé", "Hyggelig café og interiørbutikk med god service og hjemmelaget mat."],
+  "en": ["Eggedal Borgerstue Storgårdscafé", "Charming café and interior shop offering friendly service and homemade food."],
+  "de": ["Eggedal Borgerstue Storgårdscafé", "Gemütliches Café und Einrichtungsladen mit hausgemachtem Essen und freundlichem Service."]
+},
+"Eggedal Borgerstue Storgårdscafé": {
+  "no": ["Eggedal Borgerstue Storgårdscafé", "Hyggelig café og interiørbutikk med god service og hjemmelaget mat."],
+  "en": ["Eggedal Borgerstue Storgårdscafé", "Charming café and interior shop offering friendly service and homemade food."],
+  "de": ["Eggedal Borgerstue Storgårdscafé", "Gemütliches Café und Einrichtungsladen mit hausgemachtem Essen und freundlichem Service."]
+}
 };
 
  
