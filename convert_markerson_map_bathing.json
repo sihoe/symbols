@@ -1,0 +1,578 @@
+[
+  {
+    "title": "Fossanåsen Hotel",
+    "latlng": [59.9238703, 9.3500866],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fossanasen-hotel.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Fossanåsen Hotel minigolf",
+    "latlng": [59.924009, 9.3502257],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fossanaasen-hotel-minigolf.jpg",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Sandviken Camping",
+    "latlng": [
+      59.98905897,
+      8.816432107
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/Sandviken_camping.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Røyslansbergo",
+    "latlng": [
+      59.993397,
+      8.695158611
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/royslandsbergo.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Austbygde Bakeri",
+    "latlng": [
+      59.995255107,
+      8.828221442
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/austbygdebakeri.jpg",
+    "symbolType": "kaffekopp"
+  },
+  {
+    "title": "Bruhølen",
+    "latlng": [
+      60.006793803,
+      8.834367819
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/bruholen_austbygdaai.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Fjellkompaniet",
+    "latlng": [
+      60.04043464,
+      9.156548349
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fjellkompaniet.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Numedal Blomster",
+    "latlng": [
+      60.040498153,
+      9.15699726
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/numedal_blomster.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "COOP Extra Veggli",
+    "latlng": [
+      60.040609959,
+      9.156265537
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/heilfeitbrunost.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Veggli Vertshus",
+    "latlng": [
+      60.041959488,
+      9.155479281
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/veggli_vertshus.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Dresin Numedalsbanen",
+    "latlng": [
+      60.042882603,
+      9.154741056
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/dresin.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Veggli stasjon",
+    "latlng": [
+      60.043545522,
+      9.152955965
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/veggli_stasjon.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Badedammen på Veggli",
+    "latlng": [
+      60.046342939,
+      9.153187378
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/badedammen_veggli.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Badekulper i Lureåi",
+    "latlng": [
+      60.054957538,
+      8.821603924
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/lureaai.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Å Camp",
+    "latlng": [
+      60.09926326,
+      8.756140888
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/aa_camp.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Eidsåe badeplass",
+    "latlng": [
+      60.14437894,
+      9.006701689
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/eidsaae_nordefjord_badeplass.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Frognerhagen gård",
+    "latlng": [
+      60.156268402,
+      9.010185517
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/Frognerhagen.jpg",
+    "symbolType": "gaardsdyr"
+  },
+  {
+    "title": "Nore stavkirke",
+    "latlng": [
+      60.164560374,
+      9.010271502
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/nore_stavkirke.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Nordefjord stasjon",
+    "latlng": [
+      60.16865753,
+      9.009658868
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/nordefjord_stasjon.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Imingfjell Turistheim",
+    "latlng": [
+      60.233834168,
+      8.585211579
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/imingfjellturistheim_kafe.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Badeplass Ølmøs",
+    "latlng": [
+      60.255229238,
+      8.619871772
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/olmosbadekulp.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Camp Uvdal",
+    "latlng": [
+      60.264915743,
+      8.788765865
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/camp_uvdal.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Uvdal stavkirke",
+    "latlng": [
+      60.265177268,
+      8.834852182
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/uvdal_stavkirke.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Uvdalsbua",
+    "latlng": [
+      60.267179296,
+      8.943991088
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/uvdalsbua.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Rødberg Hotell",
+    "latlng": [
+      60.267799011,
+      8.942691045
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/rodberghotell.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Håvardsrud Seterliv",
+    "latlng": [
+      60.078617532,
+      8.864987101
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingom-fjellruta/main/haavardsrud_seterliv.jpg",
+    "symbolType": "gaardsdyr"
+  },
+  {
+    "title": "Kløfterhølen badeplass",
+    "latlng": [
+      59.837962182,
+      9.575067953
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Kløfterhølen_Lampeland.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Haugen Friluftspark",
+    "latlng": [
+      59.859092662,
+      9.431722154
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/haugen_friluftspark.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Flesberg stavkirke",
+    "latlng": [
+      59.862782379,
+      9.433087658
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/flesberg_stavkirke.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Numedal Kro & Camping",
+    "latlng": [
+      59.952684901,
+      9.324648678
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/numedalkro.jpg",
+    "symbolType": "eat"
+  },
+  {
+    "title": "Rollag stavkirke",
+    "latlng": [
+      60.021116893,
+      9.273333035
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/rollagstavkirke.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Blåbær Camping",
+    "latlng": [
+      59.859993843,
+      9.320847389
+    ],
+    "imageUrl": "",
+    "symbolType": "tent"
+  },
+  {
+    "title": "Blåberg kafé",
+    "latlng": [
+      59.859770567,
+      9.321359196
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blaaberg_kafe.jpg",
+    "symbolType": "kaffekopp"
+  },
+  {
+    "title": "Juvefossen",
+    "latlng": [
+      59.869960183,
+      9.305926309
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/juvefossen.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Fagerfjell skisenter",
+    "latlng": [
+      59.830575586,
+      9.31164759
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fagerfjell_skisenter.jpg",
+    "symbolType": "kaffekopp"
+  },
+  {
+    "title": "Høimyr Fjellcamping",
+    "latlng": [
+      59.834811673,
+      9.310105741
+    ],
+    "imageUrl": "",
+    "symbolType": "tent"
+  },
+  {
+    "title": "Sti til Juvefossen (nordfra)",
+    "latlng": [
+      59.872349526,
+      9.310559034
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sti_til_juvefossen_over-under.jpg",
+    "symbolType": "hiking"
+  },
+  {
+    "title": "Sti til Juvefossen (kort vei)",
+    "latlng": [
+      59.860141124,
+      9.320454691
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sti_til_juvefossen_blaaberg.jpg",
+    "symbolType": "hiking"
+  },
+  {
+    "title": "Blefjell Lodge leiligheter",
+    "latlng": [
+      59.765114428,
+      9.465213448
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blefjell_lodge_leiligheter.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Blefjell Lodge Fjellhandel",
+    "latlng": [
+      59.765229412,
+      9.465354285
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blefjell_lodge_dagligvare.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Blefjell Lodge Bistro",
+    "latlng": [
+      59.765248437,
+      9.465169959
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blefjell_lodge_spisested.jpg",
+    "symbolType": "eat"
+  },
+  {
+    "title": "Solheimstulen",
+    "latlng": [
+      60.299804316,
+      8.340905144
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/solheimstulen.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Utfartsparkering",
+    "latlng": [
+      60.300883007,
+      8.342754566
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/utfartsparkering_solheimstulen.jpg",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Beltetjonn",
+    "latlng": [
+      60.306056497,
+      8.301768732
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/beltetjonn.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Lampeland Spiseri",
+    "latlng": [
+      59.83431287,
+      9.578327078
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/lampeland_spiseri.jpg",
+    "symbolType": "eat"
+  },
+  {
+    "title": "Lampeland Hotell",
+    "latlng": [
+      59.834554551,
+      9.578144874
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Lampeland_Hotell.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Friluftsbua",
+    "latlng": [
+      59.8352615,
+      9.5774824
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Friluftsbua.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Rema1000 Lampeland",
+    "latlng": [
+      59.836204458,
+      9.579600729
+    ],
+    "imageUrl": "",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Skattekista svømmehall",
+    "latlng": [
+      59.83913742,
+      9.571732553
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/skattekista.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Vatnebrynnvatnet badeplass",
+    "latlng": [
+      59.87183139,
+      9.54320036
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Vatnebrynnvatnet_badeplass_badstu.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Vatnebrynnvatnet gapahuk",
+    "latlng": [
+      59.874734708,
+      9.539947125
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/gyger/main/Vatnebrynvatnet_gapahuk.jpg",
+    "symbolType": "fishing"
+  },
+  {
+    "title": "Blaafarveværket",
+    "latlng": [
+      59.912645708,
+      9.887791269
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/blaafarveverket.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Follsjø strand",
+    "latlng": [59.68805201, 9.26833872],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/follsjo_strand.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Bolkesjø Gaard",
+    "latlng": [59.722512668, 9.272849773],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/bolkesjo_gaard.jpg",
+    "symbolType": "attractions"
+  },
+  {
+    "title": "Follsjø",
+    "latlng": [59.687431834, 9.253190312],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fiskefollsjo.jpg",
+    "symbolType": "fishing"
+  },
+  {
+    "title": "Midtbøen gård",
+    "latlng": [59.744772842, 9.209311029],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/alpakkavandring-midtboen.jpg",
+    "symbolType": "gaardsdyr"
+  },
+  {
+    "title": "Parkering",
+    "latlng": [59.687680092, 9.268609956],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Årestua Bolkesjø Gaard",
+    "latlng": [59.721193093, 9.274365613],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/aarestuabolkesjo.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Bolkesjø Gaard stulen",
+    "latlng": [59.708502291, 9.317621697],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/stulen-bolkesjogaard.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Glamping Bolkesjø Gaard",
+    "latlng": [59.690089459, 9.266605296],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/glamping-bolkesjogaard.jpg",
+    "symbolType": "tent"
+  },
+  {
+    "title": "Husmannsplassen Bolkesjø Gaard",
+    "latlng": [59.690813381, 9.267145969],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/husmannsplassbolkesjo.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Dusanfoss",
+    "latlng": [59.746790985, 9.335377514],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/dusanfoss.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Liten parkeringsplass",
+    "latlng": [59.719121642, 9.286112416],
+    "imageUrl": "",
+    "symbolType": "marker"
+  },
+  {
+    "title": "Søstrene Storås Hotell",
+    "latlng": [59.729280646, 9.351663406],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sostrene-storaas.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Stulen på Midtbøen gård",
+    "latlng": [59.78048, 9.19730],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/stulen-midtboengaard.jpg",
+    "symbolType": "cabin"
+  },
+  {
+    "title": "Persbukta badeplass",
+    "latlng": [59.73091, 9.36317],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/persbukta.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Padling i Buvatnet",
+    "latlng": [59.72874, 9.35538],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/kayak-buvatnet.jpg",
+    "symbolType": "kayak"
+  },
+  {
+    "title": "Søstrene Storaas Sommerrestaurant",
+    "latlng": [59.72930749967856, 9.35177817682091],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sommerrestaurant-sostrenestoraas.jpg",
+    "symbolType": "eat"
+  },
+  {
+    "title": "Saghølen badeplass",
+    "latlng": [60.246341069, 9.327222487],
+    "imageUrl": "",
+    "symbolType": "bathingspot"
+  },
+  {
+    "title": "Eggedal Borgerstue",
+    "latlng": [60.2449459, 9.3542797],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/eggedalborgerstue.jpg",
+    "symbolType": "hotel"
+  },
+  {
+    "title": "Eggedal Borgerstue Storgårdscafé",
+    "latlng": [60.2447209, 9.3559142],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/storgaardscafe-eggedalborgerstue.jpg",
+    "symbolType": "eat"
+  }
+]
