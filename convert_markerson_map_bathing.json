@@ -1,5 +1,23 @@
 [
   {
+    "title": "Rollag Handel",
+    "latlng": [59.9836734,9.2938332],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/rollag-handel.jpg",
+    "symbolType": "handlevogn"
+  },
+  {
+    "title": "Sandstrand Sandviken Camping",
+    "latlng": [59.9887644,8.8185721],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sandviken-camping-strand.jpg",
+    "symbolType": "bathingspot"
+   },
+   {
+    "title": "Sandsbråten strand",
+    "latlng": [60.0403698,9.5868283],
+    "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/sandsbraaten-soneren.jpg",
+    "symbolType": "bathingspot"
+  },
+  {
     "title": "Fossanåsen Hotel",
     "latlng": [59.9238703, 9.3500866],
     "imageUrl": "https://raw.githubusercontent.com/sihoe/svingombilder/main/fossanasen-hotel.jpg",
