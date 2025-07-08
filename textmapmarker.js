@@ -5,6 +5,21 @@ const markerTexts = {
   en: ["Farmen farm 2025", "TV2 has chosen the beautiful headland by Lake Follsjø as the location for the popular series Farmen in 2025."],
   de: ["Farmen-Hof 2025", "TV2 hat die wunderschöne Landzunge am Follsjø-See als Standort für die beliebte Serie Farmen im Jahr 2025 gewählt."]
   },
+ "Sandstrand på Sandviken Camping": {
+  no: ["Sandstrand på Sandviken Camping", "Sandstrand med utsikt over Tinnsjø. Her er det ypperlig å være for store og små. Du kan leie SUP-brett, kajakk og båt på Sandviken Camping."],
+  en: ["Sandy beach at Sandviken Camping", "A sandy beach overlooking Lake Tinnsjø – ideal for both kids and adults. You can rent SUP boards, kayaks and boats at Sandviken Camping."],
+  de: ["Sandstrand bei Sandviken Camping", "Sandstrand mit Blick auf den Tinnsjø – ideal für Groß und Klein. Bei Sandviken Camping kann man SUP-Boards, Kajaks und Boote mieten."]
+  },
+ "Sandsbråten strand": {
+  no: ["Sandsbråten strand", "Herlig sandstrand rett ved veien. Perfekt for små barn."],
+  en: ["Sandsbråten beach", "Lovely sandy beach right next to the road – perfect for small children."],
+  de: ["Strand von Sandsbråten", "Wunderschöner Sandstrand direkt an der Straße – ideal für kleine Kinder."]
+  },
+ "Rollag Handel": {
+  no: ["Rollag Handel", "Nærbutikk i Rollag med hyggelig betjening og godt utvalg. Her kan du handle 24 timer i døgnet alle dager i uka."],
+  en: ["Rollag Handel", "Local grocery store in Rollag with friendly staff and a good selection. Open 24 hours a day, every day of the week."],
+  de: ["Rollag Handel", "Nahversorger in Rollag mit freundlichem Personal und guter Auswahl. Rund um die Uhr geöffnet – jeden Tag der Woche."]
+  },
   "Fossanåsen Hotel": {
   no: ["Fossanåsen Hotel", "Fossanåsen Hotel ligger stille og rolig til inne i skogen. Et ypperlig utgangspunkt for turer i skog og fjell. Her er det enkle rom, komfortable senger og mulighet for frokost, mat og drikke."],
   en: ["Fossanåsen Hotel", "Fossanåsen Hotel is peacefully located in the forest – a perfect base for exploring the surrounding woods and mountains. It offers simple rooms, comfortable beds, and breakfast, food and drinks."],
