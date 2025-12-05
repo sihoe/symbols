@@ -649,11 +649,6 @@ const markerTexts = {
     no: ["Sti", "Sti eller kjerrevei, følg med på skilting"],
     en: ["Trail", "Trail or cart road – follow local signs"],
     de: ["Pfad", "Pfad oder Karrenweg – bitte Beschilderung folgen"] 
- },
- "Eggedal Borgerstue Storgårdscafé": {
-  "no": ["Eggedal Borgerstue Storgårdscafé", "Hyggelig café og interiørbutikk med god service og hjemmelaget mat."],
-  "en": ["Eggedal Borgerstue Storgårdscafé", "Charming café and interior shop offering friendly service and homemade food."],
-  "de": ["Eggedal Borgerstue Storgårdscafé", "Gemütliches Café und Einrichtungsladen mit hausgemachtem Essen und freundlichem Service."]
 },
 "Eggedal Borgerstue Storgårdscafé": {
   "no": ["Eggedal Borgerstue Storgårdscafé", "Hyggelig café og interiørbutikk med god service og hjemmelaget mat."],
@@ -663,3 +658,4 @@ const markerTexts = {
 };
 
  
+
