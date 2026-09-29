@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Stikryss">
+  <title>Stikryss</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <rect x="218" y="118" width="32" height="249" rx="7" fill="#EEE9E0"/>
+  <path d="M127 174 L162 145 H298 Q306 145 306 153 V195 Q306 203 298 203 H162 Z" fill="#EEE9E0"/>
+  <path d="M170 220 H306 L341 249 L306 278 H170 Q162 278 162 270 V228 Q162 220 170 220 Z" fill="#EEE9E0"/>
+</svg>

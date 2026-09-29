@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Stavkirke">
+  <title>Stavkirke</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <circle cx="234" cy="65" r="7" fill="#EEE9E0"/>
+  <path d="M231 70 H237 V102 H231 Z" fill="#EEE9E0"/>
+  <path d="M234 94 C219 134 209 180 202 225 C198 253 190 277 176 296 L145 323 Q138 329 147 334 H190 V371 H215 L234 337 L253 371 H278 V334 H321 Q330 329 323 323 L292 296 C278 277 270 253 266 225 C259 180 249 134 234 94 Z" fill="#EEE9E0"/>
+  <path d="M215 371 L234 337 L253 371 Z" fill="#422426"/>
+</svg>
