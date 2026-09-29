@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Grillplass">
+  <title>Grillplass</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+
+  <path d="M151 229 C118 190 143 160 160 132 C173 110 176 91 172 75 C207 114 179 146 164 172 C151 194 148 213 151 229 Z" fill="#EEE9E0"/>
+  <path d="M218 229 C183 188 211 157 228 128 C242 105 245 87 241 69 C278 111 249 144 232 171 C219 194 215 212 218 229 Z" fill="#EEE9E0"/>
+  <path d="M286 229 C253 190 278 160 295 132 C308 110 311 91 307 75 C342 114 314 146 299 172 C286 194 283 213 286 229 Z" fill="#EEE9E0"/>
+  <path d="M111 246 H357 C353 285 334 311 305 326 C285 337 261 342 234 342 C207 342 183 337 163 326 C134 311 115 285 111 246 Z" fill="#EEE9E0"/>
+  <path d="M185 330 L151 391 M283 330 L317 391" fill="none" stroke="#EEE9E0" stroke-width="20" stroke-linecap="round"/>
+
+
+</svg>

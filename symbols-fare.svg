@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Fare">
+  <title>Fare</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+
+  <path d="M234.16 83 L367.5 342 H100.8 Z" fill="#EEE9E0" stroke="#EEE9E0" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M225 163 Q225 151 234.16 151 Q243.3 151 243.3 163 L239.5 270 Q239.1 280 234.16 280 Q229.2 280 228.8 270 Z" fill="#422426"/>
+  <circle cx="234.16" cy="307" r="13" fill="#422426"/>
+
+
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Rasteplass">
+  <title>Rasteplass</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+
+  <path d="M150 153 H318" fill="none" stroke="#EEE9E0" stroke-width="31" stroke-linecap="round"/>
+  <path d="M174 158 L111 316 M294 158 L357 316" fill="none" stroke="#EEE9E0" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M91 239 H377" fill="none" stroke="#EEE9E0" stroke-width="31" stroke-linecap="round"/>
+
+
+</svg>
