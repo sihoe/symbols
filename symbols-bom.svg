@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Bom">
+  <title>Bom</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <rect x="73" y="222" width="322" height="55" rx="13" fill="#EEE9E0"/>
+  <path d="M132 222 H172 L134 277 H94 Z M222 222 H262 L224 277 H184 Z M312 222 H352 L314 277 H274 Z" fill="#422426"/>
+  <rect x="88" y="267" width="48" height="120" rx="9" fill="#EEE9E0"/>
+  <path d="M78 387 H146" stroke="#EEE9E0" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="324" cy="137" r="64" fill="#EEE9E0"/>
+  <text x="324" y="153" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#422426">kr</text>
+</svg>

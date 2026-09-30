@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Badstue">
+  <title>Badstue</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <g transform="translate(0 3)">
+    <path d="M106 234 L234 117 L362 234" fill="none" stroke="#EEE9E0" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M137 216 V371 H331 V216" fill="none" stroke="#EEE9E0" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#EEE9E0" transform="translate(0 14)">
+      <path d="M185 327 C187 318 192 312 201 309 C210 311 215 316 217 326 L213 334 H189 Z"/>
+      <path d="M218 326 C220 317 226 310 235 308 C245 311 250 317 251 327 L247 334 H222 Z"/>
+      <path d="M252 327 C254 319 260 312 269 310 C278 312 282 319 283 328 L279 334 H256 Z"/>
+      <path d="M201 301 C203 292 209 286 217 284 C225 286 230 293 231 301 L227 309 H205 Z"/>
+      <path d="M237 301 C239 292 245 286 253 285 C261 288 266 294 267 302 L263 309 H241 Z"/>
+      <path d="M219 277 C221 268 227 262 235 261 C243 264 248 270 249 278 L245 285 H223 Z"/>
+    </g>
+    <path d="M201 253 C187 237 198 224 205 212 C211 202 212 194 210 187 C225 204 213 218 207 229 C202 239 200 247 201 253 Z" fill="#EEE9E0"/>
+    <path d="M228 253 C213 236 225 222 232 210 C238 200 239 192 237 184 C253 202 241 217 234 228 C229 239 227 247 228 253 Z" fill="#EEE9E0"/>
+    <path d="M256 253 C242 237 253 224 260 212 C266 202 267 194 265 187 C280 204 268 218 262 229 C257 239 255 247 256 253 Z" fill="#EEE9E0"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Dresin">
+  <title>Dresin</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <g transform="translate(0 -15)">
+    <circle cx="142" cy="310" r="36" fill="#EEE9E0"/>
+    <circle cx="326" cy="310" r="36" fill="#EEE9E0"/>
+    <circle cx="142" cy="310" r="18" fill="#422426"/>
+    <circle cx="326" cy="310" r="18" fill="#422426"/>
+    <path d="M100 270 H365" stroke="#EEE9E0" stroke-width="15" stroke-linecap="round"/>
+    <path d="M131 268 L207 182 L280 268" fill="none" stroke="#EEE9E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M202 178 H254" stroke="#EEE9E0" stroke-width="20" stroke-linecap="round"/>
+    <path d="M285 268 L305 145 M286 153 H335" fill="none" stroke="#EEE9E0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M82 374 H386" stroke="#EEE9E0" stroke-width="12" stroke-linecap="round"/>
+    <path d="M107 366 V388 M158 366 V388 M209 366 V388 M260 366 V388 M311 366 V388 M362 366 V388" stroke="#EEE9E0" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

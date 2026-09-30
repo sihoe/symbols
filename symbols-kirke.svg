@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Kirke">
+  <title>Kirke</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <path d="M226 72 H242 V96 H263 V112 H242 V181 H226 V112 H205 V96 H226 Z" fill="#EEE9E0"/>
+  <path d="M234 136 L262 174 V249 L310 284 V370 H158 V284 L206 249 V174 Z" fill="#EEE9E0"/>
+  <path d="M217 370 V322 C217 299 251 299 251 322 V370 Z" fill="#422426"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Frisbeegolf">
+  <title>Frisbeegolf</title>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <ellipse cx="144" cy="139" rx="65" ry="17" fill="#EEE9E0" transform="rotate(-10 144 139)"/>
+  <rect x="226" y="119" width="16" height="250" rx="8" fill="#EEE9E0"/>
+  <rect x="135" y="163" width="198" height="18" rx="9" fill="#EEE9E0"/>
+  <path d="M154 181 H314 L294 302 H174 Z" fill="none" stroke="#EEE9E0" stroke-width="13" stroke-linejoin="round"/>
+  <path d="M181 182 L194 298 M208 182 L216 300 M260 182 L252 300 M287 182 L274 298" stroke="#EEE9E0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M163 311 H305 L279 345 H189 Z" fill="#EEE9E0"/>
+</svg>
