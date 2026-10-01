@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Seter – melkespann">
-  <title>Seter – melkespann</title>
+  <title>Seter – melkespann, karttilpasset</title>
   <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
 
-  <!-- Melkespann med samme størrelse og proporsjoner som referansen -->
-  <g transform="matrix(1.35 0 0 1.35 2.64 -112)">
-  <path d="M134 188 H124 C117 188 114 193 114 200 V215 C114 222 119 224 124 220 L134 211" fill="none" stroke="#EEE9E0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M209 188 H219 C226 188 229 193 229 200 V215 C229 222 224 224 219 220 L209 211" fill="none" stroke="#EEE9E0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M134 174 H209 V203 L221 218 V340 H121 V218 L134 203 Z" fill="#EEE9E0"/>
+  <!-- Bred, enkel silhuett som holder seg tydelig i liten kartstørrelse -->
+  <g transform="translate(234.165 238) scale(1.72 1.42) translate(-171.5 -246)">
+    <!-- Korte sidehanker ved skulderen -->
+    <path d="M134 190 H122 Q114 190 114 199 V214 Q114 222 122 218 L134 208"
+          fill="none" stroke="#EEE9E0" stroke-width="9"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M209 190 H221 Q229 190 229 199 V214 Q229 222 221 218 L209 208"
+          fill="none" stroke="#EEE9E0" stroke-width="9"
+          stroke-linecap="round" stroke-linejoin="round"/>
 
-  <!-- Lokk med ring, håndtak og tynn dybdestrek -->
-  <ellipse cx="171.5" cy="161" rx="47" ry="17" fill="#EEE9E0"/>
-  <ellipse cx="171.5" cy="159" rx="35" ry="9" fill="#422426"/>
-  <path d="M150 159 H193" fill="none" stroke="#EEE9E0" stroke-width="7" stroke-linecap="round"/>
-  <path d="M137 174 Q171.5 186 206 174" fill="none" stroke="#422426" stroke-width="2" stroke-linecap="round"/>
+    <!-- Spann: tydelig skulder, rette sider og sokkel -->
+    <path d="M133 174 H210 V201 L220 216 V337 H122 V216 L133 201 Z" fill="#EEE9E0"/>
 
-  <!-- Liten, riktig plassert skulderskygge -->
-  <path d="M129 226 Q132 218 139 214 Q135 221 135 229 Z" fill="#422426"/>
+    <!-- Stort lokk med enkel bærehank -->
+    <ellipse cx="171.5" cy="162" rx="48" ry="17" fill="#EEE9E0"/>
+    <ellipse cx="171.5" cy="159" rx="34" ry="8.5" fill="#422426"/>
+    <path d="M149 159 H194" fill="none" stroke="#EEE9E0" stroke-width="8" stroke-linecap="round"/>
 
-  <!-- Sokkel med tynn brun strek nederst på spannet -->
-  <rect x="115" y="340" width="112" height="14" fill="#EEE9E0"/>
-  <path d="M115 340 H227" fill="none" stroke="#422426" stroke-width="0.55"/>
+    <!-- Én kraftig dybdelinje som fortsatt synes på kartet -->
+    <path d="M133 174 Q171.5 188 210 174" fill="none" stroke="#422426" stroke-width="3" stroke-linecap="butt"/>
+
+    <!-- Symmetrisk sokkel -->
+    <rect x="115" y="337" width="113" height="15" rx="1.5" fill="#EEE9E0"/>
+    <path d="M115 337 H228" fill="none" stroke="#422426" stroke-width="1"/>
   </g>
 </svg>
