@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Seter">
-  <title>Seter</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Seter – melkespann">
+  <title>Seter – melkespann</title>
   <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
 
-  <!-- Lav seterbu, kopiert i samme forhold som referansen -->
-  <g transform="matrix(.85 0 0 .85 69 26)">
-    <path d="M252 169 L313 130 L385 168 V235 H252 Z" fill="#EEE9E0"/>
-    <path d="M237 168 L313 110 L400 158 L391 171 L313 130 L249 178 Z" fill="#EEE9E0"/>
-    <!-- Én sammenhengende, identisk strek på begge sider av mønet -->
-    <path d="M249 178 L313 130 L391 171" fill="none" stroke="#422426" stroke-width="0.35" stroke-opacity="0.55" stroke-linejoin="miter"/>
-    <rect x="320" y="203" width="21" height="34" fill="#422426"/>
-  </g>
-
   <!-- Melkespann med samme størrelse og proporsjoner som referansen -->
+  <g transform="matrix(1.35 0 0 1.35 2.64 -112)">
   <path d="M134 188 H124 C117 188 114 193 114 200 V215 C114 222 119 224 124 220 L134 211" fill="none" stroke="#EEE9E0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M209 188 H219 C226 188 229 193 229 200 V215 C229 222 224 224 219 220 L209 211" fill="none" stroke="#EEE9E0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M134 174 H209 V203 L221 218 V340 H121 V218 L134 203 Z" fill="#EEE9E0"/>
@@ -27,6 +19,7 @@
   <path d="M129 226 Q132 218 139 214 Q135 221 135 229 Z" fill="#422426"/>
 
   <!-- Sokkel med tynn brun strek nederst på spannet -->
-  <rect x="116" y="340" width="112" height="14" fill="#EEE9E0"/>
-  <path d="M116 340 H228" fill="none" stroke="#422426" stroke-width="0.55"/>
+  <rect x="115" y="340" width="112" height="14" fill="#EEE9E0"/>
+  <path d="M115 340 H227" fill="none" stroke="#422426" stroke-width="0.55"/>
+  </g>
 </svg>
