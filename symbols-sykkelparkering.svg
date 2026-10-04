@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468.33 468.33" role="img" aria-label="Sykkelparkering">
   <title>Sykkelparkering</title>
-  <circle cx="234.165" cy="234.165" r="234.165" fill="#422426"/>
+  <circle cx="234.165" cy="234.165" r="234.165" fill="#254D39"/>
 
   <path d="M80 88 H172 C218 88 244 115 244 158 C244 201 218 228 172 228 H120 V338 H80 Z M120 124 V192 H168 C192 192 204 181 204 158 C204 135 192 124 168 124 Z" fill="#EEE9E0"/>
   <g transform="translate(110 155) scale(.64)">
