@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Benk">
+  <title>Benk</title>
+  <g fill="#422426">
+    <!-- To enkle bærestolper -->
+    <rect x="11" y="14" width="5" height="38"/>
+    <rect x="48" y="14" width="5" height="38"/>
+
+    <!-- Én kraftig ryggplanke -->
+    <rect x="4" y="14" width="56" height="15"/>
+
+    <!-- Enkelt sete med svakt skrå ender -->
+    <path d="M6 37 H58 L64 47 H0 Z"/>
+
+    <!-- De to fremre beina -->
+    <rect x="5" y="47" width="5" height="12"/>
+    <rect x="54" y="47" width="5" height="12"/>
+  </g>
+</svg>
